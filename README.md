@@ -28,10 +28,12 @@ This project analyzes New York City traffic accident data to uncover patterns an
 ## 📊 Visualizations
 
 ### 🕒 Accidents by Hour
-![](visualizations/accidents_by_hour.png)
+![Accidents by Hour](result/visualizations/accidents_by_hour.png)
 
 ### 💥 Top Contributing Factors (Vehicle 1)
-![](visualizations/top_contributing_factors.png)
+![Top Contributing Factors](result/visualizations/top_contributing_factors.png)
 
 ### 🗺️ Accident Hotspots Map
-[View interactive map →](visualizations/accident_hotspots_map.html)
+👉 [View interactive map →](result/visualizations/accident_hotspots_map.html)
+
+> ⚠️ If GitHub doesn't open the map in-browser, you can download the `.html` file and open it locally.
